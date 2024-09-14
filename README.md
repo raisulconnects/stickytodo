@@ -14,7 +14,9 @@ Persistent Storage: Tasks are saved in your browser’s local storage, so your t
 
 How to Use
 Add a Task: Type a task into the input field and click the "ADD++" button.
+
 Complete a Task: Click on a task to mark it as completed or incomplete.
+
 Delete a Task: Click the "×" button next to any task to remove it from the list.
 
 About
